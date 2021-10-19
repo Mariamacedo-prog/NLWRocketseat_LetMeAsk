@@ -21,6 +21,7 @@ export function NewRoom() {
       <main>
         <div className="main-content">
           <img src={logoImage} alt="LetMeAsk" />
+
           <h2>Criar uma nova sala</h2>
           <form>
             <input type="text" placeholder="Nome da sala..." />
